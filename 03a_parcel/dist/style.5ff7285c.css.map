@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\sass\\style.sass","src\\sass\\_var.sass"],"names":[],"mappings":"AAEA;EACE;;AAEA;EACE,OCNE;EDOF;;AAEF;EACE,OCTG","file":"style.5ff7285c.css","sourceRoot":"..","sourcesContent":["@import \"var\"\n\nbody\n  margin: 0\n\n  h1\n    color: $red\n    font-size: 40px\n\n  p\n    color: $blue\n","$red: #f71212\n$blue: #1212ee\n"]}

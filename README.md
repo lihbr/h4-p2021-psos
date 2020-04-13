@@ -1,5 +1,3 @@
-# PROJECT_NAME
+# h4-p2021-psvos
 
-## About
-
-Project description
+Packaging, Semantic Versioning and Open Source community

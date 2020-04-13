@@ -1,0 +1,14 @@
+{
+  "name": "01_sass",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "sass": "sass ./sass/style.sass ./style.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.3"
+  }
+}
