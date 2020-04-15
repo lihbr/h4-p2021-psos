@@ -1,0 +1,33 @@
+@import "~swiper/swiper.scss"
+
+main
+  padding-top: 4rem
+  display: flex
+
+.intro, .swiper-container
+  width: 50%
+
+section
+  padding-right: 4rem
+
+  h1
+    font-size: 2rem
+    margin-bottom: 0.5rem
+    line-height: 1.25
+
+.swiper-container
+  position: relative
+
+.swiper-wrapper
+  height: 400px
+
+.swiper-scrollbar
+  height: 10px
+  position: absolute
+  left: 0
+  bottom: 0
+  z-index: 10
+  &-drag
+    background: $grey
+    height: 10px
+    border-radius: 5px
